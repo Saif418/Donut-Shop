@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(113,39): warning C4013: '_beginthreadex' undefined; assuming extern returning int
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(113,92): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(125,104): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(131,95): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(193,19): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'int *'
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(193,8): warning C4024: 'srand': different types for formal and actual parameter 1
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(238,20): warning C4047: 'function': 'unsigned int' differs in levels of indirection from 'int *'
+C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\EventsAssignment8\Source.c(238,8): warning C4024: 'srand': different types for formal and actual parameter 1
+  EventsAssignment8.vcxproj -> C:\Users\saif.khan\OneDrive - North Dakota University System\Systems programming CSCI\EventsAssignment8\x64\Debug\EventsAssignment8.exe
